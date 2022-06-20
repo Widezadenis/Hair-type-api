@@ -28,13 +28,13 @@ const hairType = {
         'about' : '3C hair is made up of well-defined, tight corkscrews or coils with lots of strands densely packed together. Their circumference is the size of a pencil or straw. 3C curls have a fine to medium texture. This curl type is prone to dryness, tangles, and lack of curl definition.',
         'hairCareTips' : ['Wash and condition thoroughly.', ' Deep-condition.', 'use a curl cream', 'apply a curl refresher', 'Use sulfate-free shampoo', 'Low manipulation styles'],
         'recommendedProducts' : ['DevaCurl Melt Into Moisture Matcha Green Tea Butter Conditioning Mask', 'Kinder Curls Super Curls Styler', 'Camille Rose Aloe Whipped Butter Gel'],
-        'image' : 'https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_800,h_400,g_auto,q_85,fl_lossy,f_jpg/org/3g9g0j4i7ky1qpxex.jpg'
+        'image' : 'https://img-s.yoybuy.com/images/I/71thXf89fFL.jpg'
     },
     '3b': {
         'about' : 'Within the category of type 3 hair, 3b curls are a collection of bouncy ringlets. The circumference of each swirl is roughly that of a Sharpie marker. Because your curl type straddles the happy medium between 3a and 3c hair, you may also have some loose spirals and springy corkscrews in your locks.',
         'hairCareTips' : ['Layer products to build and retain moisture', 'Avoid heat as much as possible', 'Opt for lightweight leave-in products to avoid weighing hair down', 'Create (and follow) a comprehensive plan for daily care and protection'],
         'recommendedProducts' : ['Strictly Curls Curl Envy Perfect Curl Cream', 'PATTERN Curl Gel', 'BLACK VANILLA MOISTURE & SHINE HYDRATING CONDITIONER', 'HAIR MILK ORIGINAL LEAVE-IN MOISTURIZER'],
-        'image' : 'https://www.byrdie.com/thmb/m-GonIE40C0coNXairvA4osrs3o=/1000x800/filters:fill(auto,1)/zendayacurlyhair-08a7bc6650aa4bab923bf3af597da519.jpg'
+        'image' : 'https://p.favim.com/orig/2019/01/03/wig-baddie-curly-hair-Favim.com-6719879.jpg'
     },
     '3a': {
         'about' : 'Type 3a hair is characterized by well-defined spiral curls that are typically the size of a piece of sidewalk chalk. Although the circumference of 3a curls is wider than that of 3b and 3c hair, it can be difficult to tell the three curl types apart.', 

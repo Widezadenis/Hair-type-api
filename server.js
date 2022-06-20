@@ -28,7 +28,7 @@ const hairType = {
         'about' : '3C hair is made up of well-defined, tight corkscrews or coils with lots of strands densely packed together. Their circumference is the size of a pencil or straw. 3C curls have a fine to medium texture. This curl type is prone to dryness, tangles, and lack of curl definition.',
         'hairCareTips' : ['Wash and condition thoroughly.', ' Deep-condition.', 'use a curl cream', 'apply a curl refresher', 'Use sulfate-free shampoo', 'Low manipulation styles'],
         'recommendedProducts' : ['DevaCurl Melt Into Moisture Matcha Green Tea Butter Conditioning Mask', 'Kinder Curls Super Curls Styler', 'Camille Rose Aloe Whipped Butter Gel'],
-        'image' : 'https://o.remove.bg/downloads/822dffc6-2fd1-461f-8d70-52ed5c84a2d7/3c-removebg-preview.png'
+        'image' : 'https://o.remove.bg/downloads/a6d42817-b9d3-43ee-bd02-bc41cd39f057/3c-removebg-preview.png'
     },
     '3b': {
         'about' : 'Within the category of type 3 hair, 3b curls are a collection of bouncy ringlets. The circumference of each swirl is roughly that of a Sharpie marker. Because your curl type straddles the happy medium between 3a and 3c hair, you may also have some loose spirals and springy corkscrews in your locks.',

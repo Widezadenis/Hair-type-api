@@ -16,7 +16,7 @@ const hairType = {
         'about' : '4b hair is easily distinguished by its zigzag pattern. Unlike 4a or 4c, 4b has tight “Z” shaped strands with little definition in curl shape. Often, 4b hair is fluffy and can be soft or coarse depending on hair texture.' ,
         'hairCareTips' : ['Moisturize', 'Condition', 'finger-Comb', 'style'],
         'recommendedProducts' : ['Mielle Moisture RX Hawaiian Ginger Moisturizing Hair Butter', 'Messen EZ Detangling Brush', 'Soultanicals Knot Sauce Coil Detangler', 'Mielle Organics Avocado Hair Milk', 'Fresh Honey Nectar Deep Conditioning Treatment', 'The doux mousse def texture foam'] ,
-        'image' : 'https://o.remove.bg/downloads/21433417-b5b9-400e-bcbc-1ba0c69bfb47/4b-removebg-preview.png'
+        'image' : 'https://o.remove.bg/downloads/35925d3b-0b6a-4a9e-af39-b9a2435d49a5/4b-removebg-preview.png'
     },
     '4a': {
         'about' : 'Type 4a hair has a dense, kinky curly texture with lots of volume to spare. The size of each curl is about as wide as a crochet needle. The coily texture has more of an S pattern than other type 4s, which is why it experiences much less shrinkage when going from wet to dry.',

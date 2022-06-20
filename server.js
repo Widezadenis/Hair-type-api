@@ -10,7 +10,7 @@ const hairType = {
         'about' : '4c hair type has the tightest curl pattern of all the curly hair types. Strands are formed in tight, springy, ringlets. 4c hair tends to clump more at the ends and is even more prone to shrinkage than 4b hair.',
         'hairCareTips' : ['Mosturize before styling', 'condition', 'wash and condition in sections'],
         'recommendedProducts' : ['Camille Rose Naturals Sweet Ginger Cleansing Rinse', 'Messen EZ Detangling Brush', 'Mielle Organiscs Rosemary Mint Scalp & Hair Strengthening Oil', 'Mielle Organics Pomegranate & Honey Leave-in', 'Uncle Funky\'s daughter curly magic', 'Kinky curly knot today detangler'] ,
-        'image' : 'https://i.pinimg.com/736x/f5/19/4f/f5194fd3cfaacdc9c3e09a064ee31828.jpg'
+        'image' : 'https://o.remove.bg/downloads/5f95d4e1-1007-47bf-a2a1-153008095a73/4c-removebg-preview.png'
     },
     '4b': {
         'about' : '4b hair is easily distinguished by its zigzag pattern. Unlike 4a or 4c, 4b has tight “Z” shaped strands with little definition in curl shape. Often, 4b hair is fluffy and can be soft or coarse depending on hair texture.' ,

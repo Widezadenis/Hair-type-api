@@ -34,13 +34,13 @@ const hairType = {
         'about' : 'Within the category of type 3 hair, 3b curls are a collection of bouncy ringlets. The circumference of each swirl is roughly that of a Sharpie marker. Because your curl type straddles the happy medium between 3a and 3c hair, you may also have some loose spirals and springy corkscrews in your locks.',
         'hairCareTips' : ['Layer products to build and retain moisture', 'Avoid heat as much as possible', 'Opt for lightweight leave-in products to avoid weighing hair down', 'Create (and follow) a comprehensive plan for daily care and protection'],
         'recommendedProducts' : ['Strictly Curls Curl Envy Perfect Curl Cream', 'PATTERN Curl Gel', 'BLACK VANILLA MOISTURE & SHINE HYDRATING CONDITIONER', 'HAIR MILK ORIGINAL LEAVE-IN MOISTURIZER'],
-        'image' : 'https://o.remove.bg/downloads/7ebc791b-5071-49d7-8362-cba6179053ee/3b-removebg-preview.png'
+        'image' : 'https://o.remove.bg/downloads/4261fbb8-ebe8-438c-b913-466a6d5a0aee/3b-removebg-preview.png'
     },
     '3a': {
         'about' : 'Type 3a hair is characterized by well-defined spiral curls that are typically the size of a piece of sidewalk chalk. Although the circumference of 3a curls is wider than that of 3b and 3c hair, it can be difficult to tell the three curl types apart.', 
         'hairCareTips' : ['Find the Wash Technique That Works for You', 'Master Second-Day (And Even Third-Day) Curls', 'Prioritize Lightweight Hydration Out of the Shower', ' Confirm your porosity', ' Detangle from tip to root', ' Quench your thirsty curls.', ],
         'recommendedProducts' : ['Exotic Sulfate-free Biotin Shampoo, The Hair Doctor','Pink Collapsible Diffuser, Rizos Curls', 'Miracle Shake Leave In Detangler Spray, Kaleidoscope', '100% Pure Cold Pressed Organic Argan Oil, Pura D\'or\'s'],
-        'image' : 'https://o.remove.bg/downloads/924a8235-cde5-462d-a7c0-4e651b022739/3a-removebg-preview.png'
+        'image' : 'https://o.remove.bg/downloads/bf3354a2-683a-453d-a28a-f5c08dc58c5b/3a-removebg-preview.png'
     },
     'other': 'wavy or curly'
 }
